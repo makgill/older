@@ -2,7 +2,7 @@
 layout: default
 ---
 
-					<ul>
+<ul>
 <li><a href="/mmacevedo_ru"><i>Russian translation by Boris Ostanin</i></a></li>
 <li><a href="/mmacevedo_fr"><i>French translation by Adrien Husson</i></a></li>
 </ul>
