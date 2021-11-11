@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<div class="page__outer page__outer--content">
-			<div class="page__wrapper">
-				 
-
-				<div class="page__content">
 					<ul>
 <li><a href="/mmacevedo_ru"><i>Russian translation by Boris Ostanin</i></a></li>
 <li><a href="/mmacevedo_fr"><i>French translation by Adrien Husson</i></a></li>
@@ -67,26 +62,3 @@ layout: default
 <li>Soul</li>
 <li>Upload pruning</li>
 </ul>
-
-<h3 id="sec4"></h3>
-
-<p>Categories: 2030s uploads | MMAcevedo | Neuroimaging | Test items</p>
-				</div>
-
-				 
-					<div class="page__ancestors" dir="ltr">
-						 
-							<div class="page__ancestor">
-								<a href="/fiction">
-									Back to Fiction								</a>
-							</div>
-						 
-							<div class="page__ancestor">
-								<a href="/">
-									Back to Things Of Interest								</a>
-							</div>
-						 
-					</div>
-				 
-			</div>
-		</div>
