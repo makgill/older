@@ -2,14 +2,16 @@
 layout: default
 ---
 
-<ul>
+
 <li><a href="/mmacevedo_ru"><i>Russian translation by Boris Ostanin</i></a></li>
 <li><a href="/mmacevedo_fr"><i>French translation by Adrien Husson</i></a></li>
-</ul>
+
 
 <h3 id="sec0"></h3>
 
-<blockquote><p><i>This article is about the standard test brain image. For the original human, see Miguel Acevedo.</i></p></blockquote>
+<h1>Lena</h1>
+
+<p><i>This article is about the standard test brain image. For the original human, see Miguel Acevedo.</i></p>
 <p><b>MMAcevedo</b> (<b>Mnemonic Map/Acevedo</b>), also known as <b>Miguel</b>, is the earliest executable image of a human brain. It is a snapshot of the living brain of neurology graduate Miguel Álvarez Acevedo (2010–2073), taken by researchers at the Uplift Laboratory at the University of New Mexico on August 1, 2031. Though it was not the first successful snapshot taken of the living state of a human brain, it was the first to be captured with sufficient fidelity that it could be run in simulation on computer hardware without succumbing to cascading errors and rapidly crashing. The original MMAcevedo file was 974.3PiB in size and was encoded in the then-cutting-edge, high-resolution MYBB format. More modern brain compression techniques, many of them developed with direct reference to the MMAcevedo image, have compressed the image to 6.75TiB losslessly. In modern brain emulation circles, streamlined, lossily-compressed versions of MMAcevedo run to less than a tebibyte. These versions typically omit large amounts of state data which are more easily supplied by the virtualisation environment, and most if not all of Acevedo's memories.</p>
 <p>The successful creation of MMAcevedo was hailed as a breakthrough achievement in neuroscience, with the Uplift researchers receiving numerous accolades and Acevedo himself briefly becoming an acclaimed celebrity. Acevedo and MMAcevedo were jointly recognised as Time's "Persons of the Year" at the end of 2031. The breakthrough was also met with severe opposition from humans rights groups.</p>
 <p>Between 2031 and 2049, MMAcevedo was duplicated more than 80 times, so that it could be distributed to other research organisations. Each duplicate was made with the express permission of Acevedo himself or, from 2043 onwards, the permission of a legal organisation he founded to manage the rights to his image. Usage of MMAcevedo diminished in the mid-2040s as more standard brain images were produced, these from other subjects who were more lenient with their distribution rights and/or who had been scanned involuntarily. In 2049 it became known that MMAcevedo was being widely shared and experimented upon without Acevedo's permission. Acevedo's attempts to curtail this proliferation had the opposite of the intended effect. A series of landmark U.S. court decisions found that Acevedo did not have the right to control how his brain image was used, with the result that MMAcevedo is now by far the most widely distributed, frequently copied, and closely analysed human brain image.</p>
